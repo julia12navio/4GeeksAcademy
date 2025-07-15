@@ -23,7 +23,7 @@ basic_info:
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://avatars.githubusercontent.com/u/185851420?v=4
+    avatar: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
 
     # Contact Information
     email: julia12navio@gmail.com #optional
