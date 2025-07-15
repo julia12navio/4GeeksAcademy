@@ -29,7 +29,7 @@ basic_info:
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: 4GeeksAcademy\site\src\4geeksLogo.jpeg
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
     email: juolia12navio@gmail.com #optional
@@ -158,7 +158,7 @@ projects:
       - title: Dancing Academy
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: https://github.com/julia12navio/dancingacademy
+        link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
